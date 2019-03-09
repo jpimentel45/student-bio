@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://static1.squarespace.com/static/557fbd7ee4b031714a1c0ee1/5a70c1c6e4966bfd78ac75ae/5a9dbd6e652dea4758abddb3/1520287123574/rfg-845-loose-rainbow-fantasy-9935.jpg?format=750w");
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 15px;
+    font-style: italic;
+    background-color: black;
+    color: blue;
+
+}
+img {
+    align: middle;
+}
+h2{
+    font-size: 40px;
+    border: black;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: red
+}
+
+p1{
+    font-style: oblique;
+    color: ivory;
+    border: black;
+    font-size: 15px;
+
+}
+
+p2{
+   font-style: oblique;
+   border: black;
+    color: ivory;
+    font-size: 15px;
+
+}
+
+h3, ul, a {
+    color: ivory;
+    background-image: url("https://daily.jstor.org/wp-content/uploads/2018/05/outer_space_treaty_1050x700.jpg");
+}
